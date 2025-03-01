@@ -1,0 +1,39 @@
+shahwarshamim@Shahwars-MacBook-Air-348 coding-interview-university % ./shell
+$ ls -la
+total 384
+drwxr-xr-x@ 15 shahwarshamim  staff     480 Feb  5 17:33 .
+drwxr-xr-x   3 shahwarshamim  staff      96 Feb  5 16:15 ..
+drwxr-xr-x@ 12 shahwarshamim  staff     384 Feb  5 16:16 .git
+drwxr-xr-x@  3 shahwarshamim  staff      96 Feb  5 16:15 .github
+-rw-r--r--@  1 shahwarshamim  staff     222 Feb  5 16:15 .gitignore
+drwxr-xr-x@  6 shahwarshamim  staff     192 Feb  5 16:40 .vscode
+-rw-r--r--@  1 shahwarshamim  staff   20130 Feb  5 16:15 LICENSE.txt
+-rw-r--r--@  1 shahwarshamim  staff  136655 Feb  5 16:15 README.md
+drwxr-xr-x@  3 shahwarshamim  staff      96 Feb  5 16:15 extras
+-rw-r--r--   1 shahwarshamim  staff      17 Feb  5 16:57 output.txt
+-rw-r--r--@  1 shahwarshamim  staff    8267 Feb  5 16:15 programming-language-resources.md
+-rwxr-xr-x   1 shahwarshamim  staff    9432 Feb  5 17:33 shell
+-rw-r--r--@  1 shahwarshamim  staff    2482 Feb  5 17:06 shell.c
+drwxr-xr-x@  3 shahwarshamim  staff      96 Feb  5 16:40 shell.dSYM
+drwxr-xr-x@ 33 shahwarshamim  staff    1056 Feb  5 16:15 translations
+$ cal mar 2025
+     March 2025       
+Su Mo Tu We Th Fr Sa  
+                   1  
+ 2  3  4  5  6  7  8  
+ 9 10 11 12 13 14 15  
+16 17 18 19 20 21 22  
+23 24 25 26 27 28 29  
+30 31                 
+$ cowsay "Thank you professor, Hoping full grades for this part 1"
+ ___________________________________
+/ "Thank you professor, Hoping full \
+\ grades for this part 1"           /
+ -----------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+$ exit
